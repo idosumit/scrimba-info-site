@@ -1,5 +1,3 @@
-// import reactBgSvg from "./assets/react-background.svg";
-
 function MainPage() {
   return (
     <main>
@@ -11,7 +9,6 @@ function MainPage() {
         <li>Is maintained by Meta</li>
         <li>Powers thousands of enterprise apps, including mobile apps</li>
       </ul>
-      {/* style={{ backgroundImage: `url(${reactBgSvg})` }} */}
     </main>
   );
 }
